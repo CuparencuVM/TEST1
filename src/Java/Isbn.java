@@ -1,6 +1,4 @@
-package ISBN;
-
-import sun.awt.SunHints;
+package Java;
 
 public class Isbn {
 
